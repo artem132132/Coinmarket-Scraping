@@ -1,0 +1,30 @@
+# Python bytecode:
+*.py[co]
+
+# local env file
+.env
+
+# Editor temp files:
+*.sw[po]
+
+# vscode
+.vscode
+
+#Log files
+*.log
+
+#coverage files
+.coverage
+
+# pyenv
+.python-version
+
+.idea
+.iml
+*.xml
+
+node_modules/
+*.rdb
+
+# static files created by collectstatic
+/staticfiles/
